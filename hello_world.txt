@@ -1,2 +1,2 @@
 Hi everyone im learning git
-git commit
+this the second line of my filegit 
